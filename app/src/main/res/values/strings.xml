@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Qasir</string>
+    <string name="label_stock">Stok</string>
+    <string name="label_please_wait">Please wait...</string>
+    <string name="label_order_item">Order Barang</string>
+</resources>
